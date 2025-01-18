@@ -1,8 +1,21 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# React + Vite & TailWind CSS
+![Website Design](website-design.PNG)
 
-Currently, two official plugins are available:
+# View Live Site Now
+<a href = "https://xora-react-landing-page-4kbm-git-main-charlesrichas-projects.vercel.app/">Live Site</a>
+#
+Build this project fully using react and Tailwind CSS
+Through the help of JavaScript Mastery
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Dependancies Used
+1. react-scroll
+#
+2. react-slidedown
+# 
+4. clsx
+
+# Let's Network
+
+<a href ="www.linkedin.com/in/charles-muthui">NetWork</a>
+   
